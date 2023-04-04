@@ -1,0 +1,10 @@
+body{
+    background-image: url("body.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.btn-info{
+    background-color: darkmagenta;
+}
